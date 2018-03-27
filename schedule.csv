@@ -1,0 +1,61 @@
+matchno,date,time,hometeam,awayteam,stadium,location
+1,07-04-2018,20:00,MI,CSK,Wankhede Stadium,Mumbai
+2,08-04-2018,16:00,KXIP,DD,IS Bindra Stadium,Mohali
+3,08-04-2018,20:00,KKR,RCB,Eden Gardens,Kolkata
+4,09-04-2018,20:00,SRH,RR,Rajiv Gandhi Intl. Cricket Stadium,Hyderabad
+5,10-04-2018,20:00,CSK,KKR,M. A. Chidambaram Stadium,Chennai
+6,11-04-2018,20:00,RR,DD,Sawai Mansingh Stadium,Jaipur
+7,12-04-2018,20:00,SRH,MI,Rajiv Gandhi Intl. Cricket Stadium,Hyderabad
+8,13-04-2018,20:00,RCB,KXIP,M. Chinnaswamy Stadium,Bengaluru
+9,14-04-2018,16:00,MI,DD,Wankhede Stadium,Mumbai
+10,14-04-2018,20:00,KKR,SRH,Eden Gardens,Kolkata
+11,15-04-2018,16:00,RCB,RR,M. Chinnaswamy Stadium,Bengaluru
+12,15-04-2018,20:00,KXIP,CSK,IS Bindra Stadium,Mohali
+13,16-04-2018,20:00,KKR,DD,Eden Gardens,Kolkata
+14,17-04-2018,20:00,MI,RCB,Wankhede Stadium,Mumbai
+15,18-04-2018,20:00,RR,KKR,Sawai Mansingh Stadium,Jaipur
+16,19-04-2018,20:00,KXIP,SRH,IS Bindra Stadium,Mohali
+17,20-04-2018,20:00,CSK,RR,M. A. Chidambaram Stadium,Chennai
+18,21-04-2018,16:00,KKR,KXIP,Eden Gardens,Kolkata
+19,21-04-2018,20:00,DD,RCB,Feroz Shah Kotla Ground,Delhi
+20,22-04-2018,16:00,SRH,CSK,Rajiv Gandhi Intl. Cricket Stadium,Hyderabad
+21,22-04-2018,20:00,RR,MI,Sawai Mansingh Stadium,Jaipur
+22,23-04-2018,20:00,DD,KXIP,Feroz Shah Kotla Ground,Delhi
+23,24-04-2018,20:00,MI,SRH,Wankhede Stadium,Mumbai
+24,25-04-2018,20:00,RCB,CSK,M. Chinnaswamy Stadium,Bengaluru
+25,26-04-2018,20:00,SRH,KXIP,Rajiv Gandhi Intl. Cricket Stadium,Hyderabad
+26,27-04-2018,20:00,DD,KKR,Feroz Shah Kotla Ground,Delhi
+27,28-04-2018,20:00,CSK,MI,M. A. Chidambaram Stadium,Chennai
+28,29-04-2018,16:00,RR,SRH,Sawai Mansingh Stadium,Jaipur
+29,29-04-2018,20:00,RCB,KKR,M. Chinnaswamy Stadium,Bengaluru
+30,30-04-2018,20:00,CSK,DD,M. A. Chidambaram Stadium,Chennai
+31,01-05-2018,20:00,RCB,MI,M. Chinnaswamy Stadium,Bengaluru
+32,02-05-2018,20:00,DD,RR,Feroz Shah Kotla Ground,Delhi
+33,03-05-2018,20:00,KKR,CSK,Eden Gardens,Kolkata
+34,04-05-2018,20:00,KXIP,MI,Holkar Cricket Stadium,Indore
+35,05-05-2018,16:00,CSK,RCB,M. A. Chidambaram Stadium,Chennai
+36,05-05-2018,20:00,SRH,DD,Rajiv Gandhi Intl. Cricket Stadium,Hyderabad
+37,06-05-2018,16:00,MI,KKR,Wankhede Stadium,Mumbai
+38,06-05-2018,20:00,KXIP,RR,Holkar Cricket Stadium,Indore
+39,07-05-2018,20:00,SRH,RCB,Rajiv Gandhi Intl. Cricket Stadium,Hyderabad
+40,08-05-2018,20:00,RR,KXIP,Sawai Mansingh Stadium,Jaipur
+41,09-05-2018,20:00,KKR,MI,Eden Gardens,Kolkata
+42,10-05-2018,20:00,DD,SRH,Feroz Shah Kotla Ground,Delhi
+43,11-05-2018,20:00,RR,CSK,Sawai Mansingh Stadium,Jaipur
+44,12-05-2018,16:00,KXIP,KKR,Holkar Cricket Stadium,Indore
+45,12-05-2018,20:00,RCB,DD,M. Chinnaswamy Stadium,Bengaluru
+46,13-05-2018,16:00,CSK,SRH,M. A. Chidambaram Stadium,Chennai
+47,13-05-2018,20:00,MI,RR,Wankhede Stadium,Mumbai
+48,14-05-2018,20:00,KXIP,RCB,Holkar Cricket Stadium,Indore
+49,15-05-2018,20:00,KKR,RR,Eden Gardens,Kolkata
+50,16-05-2018,20:00,MI,KXIP,Wankhede Stadium,Mumbai
+51,17-05-2018,20:00,RCB,SRH,M. Chinnaswamy Stadium,Bengaluru
+52,18-05-2018,20:00,DD,CSK,Feroz Shah Kotla Ground,Delhi
+53,19-05-2018,16:00,RR,RCB,Sawai Mansingh Stadium,Jaipur
+54,19-05-2018,20:00,SRH,KKR,Rajiv Gandhi Intl. Cricket Stadium,Hyderabad
+55,20-05-2018,16:00,DD,MI,Feroz Shah Kotla Ground,Delhi
+56,20-05-2018,20:00,CSK,KXIP,M. A. Chidambaram Stadium,Chennai
+57,22-05-2018,20:00,TBC,TBC,Wankhede Stadium,Mumbai
+58,23-05-2018,20:00,TBC,TBC,Maharashtra Cricket Association's International Stadium,Pune
+59,25-05-2018,20:00,TBC,TBC,Maharashtra Cricket Association's International Stadium,Pune
+60,27-05-2018,20:00,TBC,TBC,Wankhede Stadium,Mumbai
